@@ -12,7 +12,7 @@ use App\Models\User;
 
 use Illuminate\Http\Request;
 use DB;
-
+// test
 class MarkController extends Controller 
 {
     public function index()
